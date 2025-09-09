@@ -39,7 +39,7 @@ Created visualizations to understand survival patterns:
 ![Age Distribution](screenshots/Age%20Distribution%20of%20Passengers.png)
 
 ### 🔹 Survival by Embarked Port
-![Embarked vs Survival](screenshots/Survival%20Count%20by%20Embarked%20Port.png)
+![Embarked vs Survival](screenshots\Survival%20by%20Embarked%20Port.png)
 
 ---
 
