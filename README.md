@@ -27,19 +27,19 @@ Created visualizations to understand survival patterns:
 ## 📊 Visualizations
 
 ### 🔹 Correlation Heatmap
-![Heatmap](screenshots/Numeric20%Features.png)
+![Heatmap](screenshots/Numeric%20Features.png)
 
 ### 🔹 Survival by Gender
-![Gender vs Survival](screenshots/Survival20%Count20%byGender.png)
+![Gender vs Survival](screenshots/Survival%20Count%20by%20Gender.png)
 
 ### 🔹 Survival by Passenger Class
-![Class vs Survival](screenshots/Survival20%Count20%by20%Passenger20%Class.png)
+![Class vs Survival](screenshots/Survival%20Count%20by%20Passenger%20Class.png)
 
 ### 🔹 Age Distribution
-![Age Distribution](screenshots/Age20%Distribution20%of20%Passengers.png)
+![Age Distribution](screenshots/Age%20Distribution%20of%20Passengers.png)
 
 ### 🔹 Survival by Embarked Port
-![Embarked vs Survival](screenshots/Survival20%Count20%by20%Embarked20%Port.png)
+![Embarked vs Survival](screenshots/Survival%20Count%20by%20Embarked%20Port.png)
 
 ---
 
